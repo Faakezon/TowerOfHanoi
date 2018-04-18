@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 090e037f211674148a33be8ed9c98293
+timeCreated: 1521648910
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ringRed_0
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.32052845, y: 0.47622445}
+  spriteBorder: {x: 614, y: 656, z: 1434, w: 716}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ringRed_0
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 652
+        width: 234
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -301.5669, y: 45.63478}
+      - {x: -347.1914, y: 54.53913}
+      - {x: -479.61377, y: 54.53913}
+      - {x: -521.8999, y: 45.63478}
+      - {x: -529.68945, y: 36.730434}
+      - {x: -529.68945, y: -101.28696}
+      - {x: -509.65918, y: -117.982605}
+      - {x: -313.80762, y: -117.982605}
+      - {x: -291.55176, y: -101.28696}
+      - {x: -291.55176, y: 13.356522}
+      - {x: -292.66455, y: 35.61739}
+    - - {x: -545.26855, y: -10.017391}
+      - {x: -547.49414, y: -12.243478}
+      - {x: -547.49414, y: -14.469565}
+      - {x: -545.26855, y: -16.695652}
+      - {x: -543.04297, y: -16.695652}
+      - {x: -540.8174, y: -14.469565}
+      - {x: -540.8174, y: -12.243478}
+      - {x: -543.04297, y: -10.017391}
+    physicsShape:
+    - - {x: -293.77734, y: -87.930435}
+      - {x: -293.77734, y: 34.50435}
+      - {x: -296.00293, y: 37.84348}
+      - {x: -312.69482, y: 46.747826}
+      - {x: -363.8833, y: 53.426086}
+      - {x: -430.65088, y: 53.426086}
+      - {x: -476.2754, y: 51.2}
+      - {x: -508.5464, y: 45.63478}
+      - {x: -527.46387, y: 37.84348}
+      - {x: -527.46387, y: -91.26956}
+      - {x: -510.77197, y: -102.4}
+      - {x: -470.71143, y: -110.19131}
+      - {x: -372.78564, y: -110.19131}
+      - {x: -341.62744, y: -107.96522}
+      - {x: -318.2588, y: -104.62608}
+      - {x: -300.4541, y: -95.72174}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
